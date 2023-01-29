@@ -67,9 +67,9 @@ payload:
   - IP-CIDR6,2001:b28:f23c::/47
   - IP-CIDR6,2001:b28:f23f::/48
   - IP-CIDR6,2a0a:f280::/32
-  #- PROCESS-NAME,nekox.messenger
-  #- PROCESS-NAME,org.telegram.messenger
-  #- PROCESS-NAME,telegram.exe
+  - PROCESS-NAME,nekox.messenger
+  - PROCESS-NAME,org.telegram.messenger
+  - PROCESS-NAME,telegram.exe
   
   #TelegramNL
   - IP-CIDR,149.154.160.0/20
